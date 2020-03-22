@@ -9,3 +9,8 @@ img {
 .photos {
    text-align: center;
 }
+
+.frenchie {
+   height: 300px;
+   width: auto;
+}
